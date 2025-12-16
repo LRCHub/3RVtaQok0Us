@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "サピエンス",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-16T16:23:00.974050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サピエンス",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_サピエンス_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン (CV.杉田智和)",
+      "has_synced": false,
+      "path": "select/02_ホモ・サピエンス・ラプソディ_キョン_(CV.杉田智和).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン (C.V.杉田智和)",
+      "has_synced": false,
+      "path": "select/03_ホモ・サピエンス・ラプソディ_キョン_(C.V.杉田智和).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ (off vocal)",
+      "artist": "キョン (C.V.杉田智和)",
+      "has_synced": false,
+      "path": "select/04_ホモ・サピエンス・ラプソディ_(off_vocal)_キョン_(C.V.杉田智和).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン (杉田智和)",
+      "has_synced": false,
+      "path": "select/05_ホモ・サピエンス・ラプソディ_キョン_(杉田智和).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ (off vocal)",
+      "artist": "Kyon (C.V.Sugita, Tomokazu)",
+      "has_synced": false,
+      "path": "select/06_ホモ・サピエンス・ラプソディ_(off_vocal)_Kyon_(C.V.Sugita,_Tomokazu).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "キョン(杉田智和)",
+      "has_synced": false,
+      "path": "select/07_ホモ・サピエンス・ラプソディ_キョン(杉田智和).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ (off vocal)",
+      "artist": "キョン(杉田智和)",
+      "has_synced": false,
+      "path": "select/08_ホモ・サピエンス・ラプソディ_(off_vocal)_キョン(杉田智和).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ (off vocal)",
+      "artist": "キョン (杉田智和)",
+      "has_synced": false,
+      "path": "select/09_ホモ・サピエンス・ラプソディ_(off_vocal)_キョン_(杉田智和).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ (off vocal)",
+      "artist": "杉田智和",
+      "has_synced": false,
+      "path": "select/10_ホモ・サピエンス・ラプソディ_(off_vocal)_杉田智和.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ",
+      "artist": "杉田智和",
+      "has_synced": false,
+      "path": "select/11_ホモ・サピエンス・ラプソディ_杉田智和.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ホモ・サピエンス・ラプソディ [instrumental]",
+      "artist": "杉田智和",
+      "has_synced": false,
+      "path": "select/12_ホモ・サピエンス・ラプソディ_[instrumental]_杉田智和.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サピエンス",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_サピエンス_星野源.txt"
+    }
+  ]
+}
